@@ -1,0 +1,26 @@
+.btn {
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  padding: 20px 30px;
+  outline: none;
+  border: none;
+  border-radius: 25px;
+  color: #fff;
+  background-color: #2d54bd;
+  text-transform: capitalize;
+  font-size: 30px;
+  transition: 300ms ease all;
+}
+.win {
+  background-color: #1cda8b;
+}
+.faill {
+  background-color: #a80404;
+}
+.danger {
+  background-color: rgb(78, 4, 4);
+}
+.attention {
+  background-color: #d8db24;
+}
